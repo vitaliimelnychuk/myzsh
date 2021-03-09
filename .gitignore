@@ -1,5 +1,6 @@
 # Working projects commands and alliases
 projects.zsh
+personal.zsh
 
 # All configuration secrets
 secrets.zsh
