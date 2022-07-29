@@ -54,3 +54,8 @@ Update your changes by running the command source `~/.zshrc`
 ```bash
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ```
+
+- [GnuPG](https://www.gnupg.org/download/)
+
+    - Install from website
+    - Follow GitHub/Gitlab documentation to add new keys to sign
